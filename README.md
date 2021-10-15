@@ -1,6 +1,6 @@
-## Validate Password API
+## Challenge Password API - Iti
 
-~**Desafio Proposto**: Desenvolver uma API com o intuito de receber uma senha e realizar a validação da mesma. 
+~**Desafio Proposto**: Desenvolver uma API com o intuito de receber uma senha e realizar a validação da mesma de acordo com requisitos pré definidos. 
 
 ## Requisitos da API
  * **Quantidade de Caracteres** - Nove ou mais 
